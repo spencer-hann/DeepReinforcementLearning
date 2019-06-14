@@ -1,4 +1,4 @@
-# DeepReinforcementLearning
+# Regularization in Deep Reinforcement Learning
 ECE 510: Deep Learning Theory & Practice  
 Spring 2019  
 Dr. Ted Willke  
